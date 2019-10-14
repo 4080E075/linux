@@ -131,3 +131,5 @@ root@kali:/KSU# ls
 gedit test1.py
 python3 test1.py
 ```
+### 完成python課本第10章
+```
